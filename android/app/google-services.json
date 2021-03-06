@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "418041598990",
+    "project_id": "transfer-memories",
+    "storage_bucket": "transfer-memories.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418041598990:android:fbfe6d4d740dd85e38185f",
+        "android_client_info": {
+          "package_name": "com.example.transfer_memories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418041598990-fj1c5r68c3jh4tir0peq50vpb4ch1jcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.transfer_memories",
+            "certificate_hash": "af00f051d1311e3908802814332ddc0da3c5e1da"
+          }
+        },
+        {
+          "client_id": "418041598990-60j803kdbsdc3p5oatheq9mddg4qsadj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD38dy2o_6fojUgoVQF4Zfu16y--8YzDIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418041598990-60j803kdbsdc3p5oatheq9mddg4qsadj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418041598990-55pdf2vkvigivofgt3edo6r9crm968fv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.transferMemories"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
